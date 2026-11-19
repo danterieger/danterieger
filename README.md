@@ -23,6 +23,7 @@ Mechatronics engineer in Toronto, working where mechanical design, manufacturing
 |---|---|---|
 | [Lattice damper for UAV motors](https://danterieger.github.io/projects/uav-vibration-damper.html) ([write-up](https://github.com/danterieger/projects/tree/main/2026/uav-vibration-damper)) | 2026 | Lattice modelling in nTop, simulation, TPU prototyping and tensile testing |
 | [Smart curtain: light-controlled window automation](https://danterieger.github.io/projects/smart-curtain.html) ([write-up](https://github.com/danterieger/projects/tree/main/2025/smart-curtain)) | 2025 | Arduino control logic, servo and slider-crank mechanism, KiCad schematic |
+| [Wind turbine tower vibration absorber](https://danterieger.github.io/projects/wind-turbine-absorber.html) ([write-up](https://github.com/danterieger/projects/tree/main/2024/wind-turbine-absorber)) | 2024 | Lumped-mass model and simulation in Python, absorber design in SolidWorks |
 | [Dynamic Rescuer: all-terrain patient carrier](https://danterieger.github.io/projects/dynamic-rescuer.html) ([write-up](https://github.com/danterieger/projects/tree/main/2023/dynamic-rescuer)) | 2023 | Requirements, inclusive design analysis, SolidWorks model |
 
 All write-ups are in [**projects**](https://github.com/danterieger/projects), organized by year.
