@@ -13,8 +13,8 @@ Mechatronics engineer in Toronto, working where mechanical design, manufacturing
 ## Experience highlights
 
 **Lincoln Electric, Engineering Intern (Aug 2025 to Aug 2026)**
-- Led floor layout optimization with 5S, lean and kaizen, including the Machine Division assembly line and a safer cored wire payoff area
-- New product implementation for the Vantage 500 and Maverick 300X: electrical schematics, BOMs and technical documentation
+- Led floor layout optimization with 5S, lean and kaizen, including Machine Division assembly line optimization and a cored wire payoff safety layout
+- Welder product launches (Vantage 500 and Maverick 300X): electrical schematics, BOMs and technical documentation
 - Designed parts, fixtures and production drawings in Solid Edge and AutoCAD
 
 ## Featured projects
